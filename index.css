@@ -1,5 +1,6 @@
 h2{
     text-align: center;
+    margin-top: 100px;
     font-family: 'Times New Roman', Times, serif;
 }
 div {
@@ -7,16 +8,19 @@ div {
     width: 500px;
     border: 15px solid goldenrod;
     padding: 50px;
-    margin-left: 150px;
+    margin-top: 50px;
+    margin-left: 450px;
     text-align: center;
 }
 .a{
     background-color: black;
     color:pink;
     text-align:center;
+    font-size: 25px;
 }
 .b{
     background-color: black;
     color:pink;
     text-align: center;
+    font-size:20px;
 }
