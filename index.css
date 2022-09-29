@@ -1,0 +1,22 @@
+h2{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+div {
+    background-color: beige;
+    width: 500px;
+    border: 15px solid goldenrod;
+    padding: 50px;
+    margin-left: 150px;
+    text-align: center;
+}
+.a{
+    background-color: black;
+    color:pink;
+    text-align:center;
+}
+.b{
+    background-color: black;
+    color:pink;
+    text-align: center;
+}
